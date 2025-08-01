@@ -14,7 +14,7 @@
 - 🌱 I’m currently diving deep into **Data Structures and Algorithms**.
 - 💻 My competitive programming journey is focused on platforms like HackerRank, LeetCode, CodeChef, and GeeksforGeeks.
 - 💬 Ask me about **Java, C, Python and competitive programming strategies**.
-- 📫 How to reach me: [shindepayalvd@email.com](mailto:shindepayalvd@gmail.com).
+- 📫 How to reach me: [shindepayalvd@gmail.com](mailto:shindepayalvd@gmail.com).
 - ⚡ Fun fact: I'm a huge fan of classic puzzles and brain teasers.
 
 ---
